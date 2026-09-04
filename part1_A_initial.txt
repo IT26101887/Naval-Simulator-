@@ -1,0 +1,40 @@
+========================================
+ADVANCED NAVAL BATTLE SIMULATOR
+PART 1-A - INITIAL CONDITIONS
+========================================
+
+BATTLEFIELD
+Battlefield Size: 1000.00 x 1000.00
+Number of Escort Ships: 2
+
+BATTLESHIP
+Type: M
+Initial Position: (300.00, 400.00)
+Vmax: 5000.00 m/s
+
+ESCORT SHIPS
+
+E1
+Type: EA
+Position: (995.18, 659.08)
+Vmin: 4900.78 m/s
+Vmax: 6000.00 m/s
+Minimum Angle: 64.07 degrees
+Maximum Angle: 84.07 degrees
+Angle Range: 20.00 degrees
+Impact Power: 0.08
+
+E2
+Type: EE
+Position: (20.72, 975.01)
+Vmin: 814.78 m/s
+Vmax: 1641.74 m/s
+Minimum Angle: 5.95 degrees
+Maximum Angle: 75.95 degrees
+Angle Range: 70.00 degrees
+Impact Power: 0.04
+
+OTHER IMPLEMENTATION VALUES
+  Firing Velocity : 2549.06
+  Firing Angle    : 41.85 degrees
+Gravity: 9.81 m/s^2
