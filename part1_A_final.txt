@@ -1,0 +1,35 @@
+========================================
+ADVANCED NAVAL BATTLE SIMULATOR
+PART 1-A - FINAL CONDITIONS
+========================================
+
+BATTLE RESULT
+Battleship Status: SURVIVED
+Number of Escort Ships Hit by B: 2
+Battle End Time: 0.29 seconds
+
+ESCORT SHIPS HIT BY B
+
+E1
+Type: EA
+Position: (995.18, 659.08)
+Time to Hit: 0.29 seconds
+Firing Velocity: 2549.06 m/s
+Firing Angle: 20.47 degrees
+
+E2
+Type: EE
+Position: (20.72, 975.01)
+Time to Hit: 0.25 seconds
+Firing Velocity: 2549.06 m/s
+Firing Angle: 64.11 degrees
+
+FINAL BATTLESHIP CONDITIONS
+Type: M
+Position: (300.00, 400.00)
+Vmax: 5000.00 m/s
+
+FINAL ESCORT SHIP CONDITIONS
+
+E1 - Type: EA - Position: (995.18, 659.08)
+E2 - Type: EE - Position: (20.72, 975.01)
