@@ -1,0 +1,60 @@
+========================================
+ADVANCED NAVAL BATTLE SIMULATOR
+PART 1-C
+SIMULATION 1 - ITERATION 1
+========================================
+
+BATTLESHIP POSITION
+(714.38, 392.56)
+
+GUN STATUS
+NORMAL
+Allowed Vertical Angle: 0.00 - 90.00 degrees
+
+BATTLE RESULT
+Battleship Status: SURVIVED
+Number of Escort Ships Hit by B: 0
+Battle End Time: 0.00 seconds
+Cumulative Impact on B: 0.00%
+
+FINAL BATTLESHIP CONDITIONS
+Type: U
+Position: (714.38, 392.56)
+Vmax: 30.00 m/s
+Cumulative Damage: 0.00%
+
+ESCORT SHIP CONDITIONS
+
+E1
+Type: EC
+Position: (935.18, 361.19)
+Status: ALIVE
+Has Fired: YES
+Vmin: 5.96 m/s
+Vmax: 29.76 m/s
+Minimum Angle: 51.59 degrees
+Maximum Angle: 76.59 degrees
+Impact Power: 7.00%
+
+E2
+Type: ED
+Position: (466.38, 268.53)
+Status: ALIVE
+Has Fired: YES
+Vmin: 0.25 m/s
+Vmax: 5.67 m/s
+Minimum Angle: 39.96 degrees
+Maximum Angle: 89.96 degrees
+Impact Power: 5.00%
+
+E3
+Type: EA
+Position: (531.42, 371.87)
+Status: ALIVE
+Has Fired: YES
+Vmin: 26.87 m/s
+Vmax: 36.00 m/s
+Minimum Angle: 38.45 degrees
+Maximum Angle: 58.45 degrees
+Impact Power: 8.00%
+
