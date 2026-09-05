@@ -1,0 +1,125 @@
+========================================
+ADVANCED NAVAL BATTLE SIMULATOR
+PART 1-B
+SIMULATION 2 - ITERATION 2
+========================================
+
+BATTLESHIP POSITION
+(91.78, 25.21)
+
+GUN STATUS
+JAMMED
+Allowed Vertical Angle: 20.00 - 90.00 degrees
+
+BATTLE RESULT
+Battleship Status: SURVIVED
+Number of Escort Ships Hit by B: 0
+Battle End Time: 0.00 seconds
+
+FINAL BATTLESHIP CONDITIONS
+Type: M
+Position: (91.78, 25.21)
+Vmax: 10.00 m/s
+
+ESCORT SHIP CONDITIONS
+
+E1
+Type: EA
+Position: (15.55, 41.79)
+Status: ALIVE
+Vmin: 7.65 m/s
+Vmax: 12.00 m/s
+Minimum Angle: 16.56 degrees
+Maximum Angle: 36.56 degrees
+Impact Power: 0.08
+
+E2
+Type: ED
+Position: (42.14, 91.64)
+Status: ALIVE
+Vmin: 0.96 m/s
+Vmax: 1.15 m/s
+Minimum Angle: 21.07 degrees
+Maximum Angle: 71.07 degrees
+Impact Power: 0.05
+
+E3
+Type: EA
+Position: (53.00, 88.71)
+Status: ALIVE
+Vmin: 5.90 m/s
+Vmax: 12.00 m/s
+Minimum Angle: 55.15 degrees
+Maximum Angle: 75.15 degrees
+Impact Power: 0.08
+
+E4
+Type: EE
+Position: (29.80, 56.99)
+Status: ALIVE
+Vmin: 4.94 m/s
+Vmax: 6.82 m/s
+Minimum Angle: 16.28 degrees
+Maximum Angle: 86.28 degrees
+Impact Power: 0.04
+
+E5
+Type: EE
+Position: (98.29, 39.07)
+Status: ALIVE
+Vmin: 2.02 m/s
+Vmax: 3.35 m/s
+Minimum Angle: 3.99 degrees
+Maximum Angle: 73.99 degrees
+Impact Power: 0.04
+
+E6
+Type: EB
+Position: (19.92, 36.25)
+Status: ALIVE
+Vmin: 1.04 m/s
+Vmax: 1.62 m/s
+Minimum Angle: 15.06 degrees
+Maximum Angle: 45.06 degrees
+Impact Power: 0.06
+
+E7
+Type: EC
+Position: (38.43, 28.20)
+Status: ALIVE
+Vmin: 0.51 m/s
+Vmax: 3.52 m/s
+Minimum Angle: 40.05 degrees
+Maximum Angle: 65.05 degrees
+Impact Power: 0.07
+
+E8
+Type: EA
+Position: (34.01, 20.24)
+Status: ALIVE
+Vmin: 2.51 m/s
+Vmax: 12.00 m/s
+Minimum Angle: 8.98 degrees
+Maximum Angle: 28.98 degrees
+Impact Power: 0.08
+
+E9
+Type: EC
+Position: (17.96, 58.03)
+Status: ALIVE
+Vmin: 1.20 m/s
+Vmax: 4.16 m/s
+Minimum Angle: 23.89 degrees
+Maximum Angle: 48.89 degrees
+Impact Power: 0.07
+
+E10
+Type: EB
+Position: (45.26, 49.16)
+Status: ALIVE
+Vmin: 5.65 m/s
+Vmax: 7.20 m/s
+Minimum Angle: 31.64 degrees
+Maximum Angle: 61.64 degrees
+Impact Power: 0.06
+
