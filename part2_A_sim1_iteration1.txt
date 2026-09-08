@@ -1,0 +1,114 @@
+========================================
+ADVANCED NAVAL BATTLE SIMULATOR
+PART 2-A
+SIMULATION 1 - ITERATION 1
+========================================
+
+BATTLESHIP POSITION
+(1265.14, 367.44)
+
+GUN STATUS
+NORMAL
+Allowed Vertical Angle: 0.00 - 90.00 degrees
+
+B GUN FIRING INTERVAL
+TBq: 6.51 seconds
+
+CUSTOM COMPUTER STRATEGY
+Strategy: Prioritize higher-impact Escort Ships
+and favour shorter flight times.
+
+B ATTACK ORDER
+1. E6
+
+BATTLE RESULT
+Battleship Status: SURVIVED
+Number of Escort Ships Hit by B: 1
+Battle End Time: 18.31 seconds
+Cumulative Impact on B: 0.00%
+
+FINAL BATTLESHIP CONDITIONS
+Type: M
+Position: (1265.14, 367.44)
+Vmax: 80.00 m/s
+Cumulative Damage: 0.00%
+
+ESCORT SHIP CONDITIONS
+
+E1
+Type: EE
+Position: (2209.39, 807.14)
+Status: ALIVE
+Has Fired: YES
+Vmin: 10.75 m/s
+Vmax: 17.28 m/s
+Minimum Angle: 7.02 degrees
+Maximum Angle: 77.02 degrees
+Impact Power: 4.00%
+
+E2
+Type: EB
+Position: (17.32, 2397.23)
+Status: ALIVE
+Has Fired: YES
+Vmin: 18.64 m/s
+Vmax: 51.75 m/s
+Minimum Angle: 51.95 degrees
+Maximum Angle: 81.95 degrees
+Impact Power: 6.00%
+
+E3
+Type: EE
+Position: (2050.16, 2050.77)
+Status: ALIVE
+Has Fired: YES
+Vmin: 10.64 m/s
+Vmax: 73.00 m/s
+Minimum Angle: 1.15 degrees
+Maximum Angle: 71.15 degrees
+Impact Power: 4.00%
+
+E4
+Type: ED
+Position: (1781.37, 1010.39)
+Status: ALIVE
+Has Fired: YES
+Vmin: 49.46 m/s
+Vmax: 61.86 m/s
+Minimum Angle: 3.89 degrees
+Maximum Angle: 53.89 degrees
+Impact Power: 5.00%
+
+E5
+Type: EE
+Position: (1144.75, 2404.25)
+Status: ALIVE
+Has Fired: YES
+Vmin: 16.04 m/s
+Vmax: 47.82 m/s
+Minimum Angle: 0.47 degrees
+Maximum Angle: 70.47 degrees
+Impact Power: 4.00%
+
+E6
+Type: ED
+Position: (984.60, 160.30)
+Status: DESTROYED
+Has Fired: YES
+Vmin: 3.90 m/s
+Vmax: 28.36 m/s
+Minimum Angle: 30.03 degrees
+Maximum Angle: 80.03 degrees
+Impact Power: 5.00%
+
+E7
+Type: ED
+Position: (1901.00, 1186.18)
+Status: ALIVE
+Has Fired: YES
+Vmin: 20.08 m/s
+Vmax: 33.50 m/s
+Minimum Angle: 39.14 degrees
+Maximum Angle: 89.14 degrees
+Impact Power: 5.00%
+
