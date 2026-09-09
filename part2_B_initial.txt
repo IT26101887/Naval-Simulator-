@@ -1,0 +1,68 @@
+========================================
+ADVANCED NAVAL BATTLE SIMULATOR
+PART 2-B - INITIAL CONDITIONS
+========================================
+
+BATTLEFIELD
+Size: 2500.00 x 2500.00
+Number of Escort Ships: 3
+
+BATTLESHIP
+Type: U
+Initial Position: (800.00, 900.00)
+Vmax: 70.00 m/s
+TBq: 7.98 seconds
+
+ESCORT SHIP FIRING INTERVALS
+
+TE^EA: 8.70 seconds
+TE^EB: 2.42 seconds
+TE^EC: 4.00 seconds
+TE^ED: 9.49 seconds
+TE^EE: 1.38 seconds
+
+ESCORT SHIPS
+
+E1
+Type: EE
+Position: (1091.80, 642.26)
+Vmin: 10.23 m/s
+Vmax: 33.12 m/s
+Minimum Angle: 8.99 degrees
+Maximum Angle: 78.99 degrees
+Angle Range: 70.00 degrees
+Impact Power: 4.00%
+TE: 1.38 seconds
+
+E2
+Type: EB
+Position: (358.97, 95.29)
+Vmin: 8.37 m/s
+Vmax: 26.56 m/s
+Minimum Angle: 10.83 degrees
+Maximum Angle: 40.83 degrees
+Angle Range: 30.00 degrees
+Impact Power: 6.00%
+TE: 2.42 seconds
+
+E3
+Type: EC
+Position: (2313.61, 224.08)
+Vmin: 20.34 m/s
+Vmax: 50.09 m/s
+Minimum Angle: 51.44 degrees
+Maximum Angle: 76.44 degrees
+Angle Range: 25.00 degrees
+Impact Power: 7.00%
+TE: 4.00 seconds
+
+BATTLESHIP PATH
+
+Number of Path Points: 3
+
+Point 1: (2233.34, 1071.28)
+Point 2: (2389.68, 1269.42)
+Point 3: (880.00, 284.89)
+
+Gravity: 9.81 m/s^2
+Initial Cumulative Impact on B: 0.00%
