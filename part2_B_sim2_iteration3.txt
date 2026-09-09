@@ -1,0 +1,79 @@
+========================================
+ADVANCED NAVAL BATTLE SIMULATOR
+PART 2-B
+SIMULATION 2 - ITERATION 3
+========================================
+
+BATTLESHIP POSITION
+(880.00, 284.89)
+
+GUN STATUS
+JAMMED
+Allowed Vertical Angle: 20.00 - 90.00 degrees
+
+B GUN FIRING INTERVAL
+TBq: 7.98 seconds
+
+ESCORT GUN FIRING INTERVALS
+TE^EA: 8.70 seconds
+TE^EB: 2.42 seconds
+TE^EC: 4.00 seconds
+TE^ED: 9.49 seconds
+TE^EE: 1.38 seconds
+
+CUSTOM COMPUTER STRATEGY
+Priority factors:
+50% Impact Power
+30% Firing Frequency
+20% Flight Time
+
+B ATTACK ORDER
+No Escort Ships within B attack range.
+
+BATTLE RESULT
+Battleship Status: SURVIVED
+Number of Escort Ships Hit by B: 0
+Battle End Time: 23.95 seconds
+Cumulative Impact on B: 0.00%
+
+FINAL BATTLESHIP CONDITIONS
+Type: U
+Position: (880.00, 284.89)
+Vmax: 70.00 m/s
+Cumulative Damage: 0.00%
+
+ESCORT SHIP CONDITIONS
+
+E1
+Type: EE
+Position: (1091.80, 642.26)
+Status: ALIVE
+Vmin: 10.23 m/s
+Vmax: 33.12 m/s
+Minimum Angle: 8.99 degrees
+Maximum Angle: 78.99 degrees
+Impact Power: 4.00%
+TE: 1.38 seconds
+
+E2
+Type: EB
+Position: (358.97, 95.29)
+Status: DESTROYED
+Vmin: 8.37 m/s
+Vmax: 26.56 m/s
+Minimum Angle: 10.83 degrees
+Maximum Angle: 40.83 degrees
+Impact Power: 6.00%
+TE: 2.42 seconds
+
+E3
+Type: EC
+Position: (2313.61, 224.08)
+Status: DESTROYED
+Vmin: 20.34 m/s
+Vmax: 50.09 m/s
+Minimum Angle: 51.44 degrees
+Maximum Angle: 76.44 degrees
+Impact Power: 7.00%
+TE: 4.00 seconds
+
